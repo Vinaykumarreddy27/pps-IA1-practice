@@ -21,5 +21,5 @@ int main()
   add(x,y,&z);
   output(x,y,z);
   return 0;
-  }
+   }
 
