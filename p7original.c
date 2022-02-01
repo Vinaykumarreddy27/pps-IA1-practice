@@ -1,4 +1,4 @@
-#include<stdio.h>
+ #include<stdio.h>
 struct _complex{
   float real,imaginary;
 };
@@ -41,4 +41,4 @@ int main()
   c=add(a,b);
   output(a,b,c);
   return 0;
-}
+    }
