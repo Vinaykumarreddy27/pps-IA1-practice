@@ -28,4 +28,4 @@ int main()
   big=cmp(x,y,z);
   output(big);
   return 0;
-}
+   }
